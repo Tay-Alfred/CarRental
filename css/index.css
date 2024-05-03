@@ -11,3 +11,17 @@
     margin-right: auto;
     margin-top: 70px;
 }
+
+#tollTag{
+    background-color: #ea9999;
+}
+#GPS{
+    background-color: #ea9999;
+}
+#roadside{
+    background-color: #ea9999;
+}
+input[type="radio"]{
+   border-color: #ea9999;
+    background-color: #ea9999;
+}
